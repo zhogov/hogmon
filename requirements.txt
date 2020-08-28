@@ -1,0 +1,4 @@
+pandas
+requests
+# Seems to be good idea to freeze dash
+dash==1.15.0
